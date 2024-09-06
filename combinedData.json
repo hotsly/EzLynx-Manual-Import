@@ -1,0 +1,36 @@
+{
+    "nameMappings": [
+        {
+            "original": "Angie Sosa",
+            "mapped": "Mawuli Avege"
+        },
+        {
+            "original": "Anthony R",
+            "mapped": "Firouz Mobarez"
+        }
+    ],
+    "skipList": [
+        "Alex Pattillo",
+        "Carolina Ledezma",
+        "Dianna De La Torre",
+        "Emanuel Piz",
+        "Eric Rudy",
+        "Gary Pattillo",
+        "Garry Pattillo",
+        "Jean Lansang",
+        "Jeff Lewis",
+        "Jhester Sibug",
+        "Keren Zhang",
+        "Mike Spearin",
+        "Michael Spearin",
+        "Udai Mody",
+        "Sras Kim",
+        "Walter Bere",
+        "Missing Assigned Producer",
+        "PIA Select Staff",
+        "Douglas DuBois",
+        "Accounting Unidentified",
+        "Unknown",
+        "Bien Garcia"
+    ]
+}
